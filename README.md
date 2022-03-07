@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lubna-Bakeer
-- 👀 I’m interested in coding, programming 
-- 🌱 I’m currently learning spring
+- 👀 I’m interested in coding, programming  
+- 🌱 I’m currently learning spring and microservices
 - 📫 How to reach me throw linkedIn
 
 <!---
